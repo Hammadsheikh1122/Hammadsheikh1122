@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Hammad Sheikh Developer Banner">
+
 
 # 👋 Hi, I'm Hammad Sheikh!
 
