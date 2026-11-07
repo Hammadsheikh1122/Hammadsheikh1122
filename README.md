@@ -1,39 +1,26 @@
 
-# 💫 About Me
+<div align="center">
 
-👋 Hi, I'm Hammad Sheikh!
+<img src="banner.png" width="100%" alt="Hammad Sheikh Developer Banner">
 
-💻 Aspiring Web Developer from Karachi, Pakistan.
+# 👋 Hi, I'm Hammad Sheikh!
 
-🚀 Passionate about coding, building websites, and exploring new technologies.
+### 💻 Aspiring Web Developer | Karachi, Pakistan
 
-### 🛠️ Skills & Technologies
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Responsive Web Design
-- Git & GitHub
+*Code • Learn • Build • Grow*
 
-🌱 Currently learning Advanced JavaScript and exploring Full-Stack Development.
+</div>
 
-🎯 Goal: Become a professional Full-Stack Developer and build innovative real-world applications.
+---
 
-⚡ Always learning, always building!
+## 💫 About Me
 
-## 🌐 Socials
+- 🚀 Passionate about web development.
+- 💻 Building responsive websites.
+- 🌱 Learning Advanced JavaScript and Full-Stack Development.
+- 🎯 Goal: Become a professional Full-Stack Developer.
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1CG71PV1uQ/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hammadsheikh4168/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%CA%9C%E1%B4%80%E1%B4%8D%E1%B4%8D%E1%B4%80%E1%B4%85-s%CA%9C%E1%B4%87%C9%AA%E1%B4%8B%CA%9C/)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@CodewithHammad-k3x)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammadsheikhsheikh6@gmail.com)
-
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,17 +29,28 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Hammadsheikh1122)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/%CA%9C%E1%B4%80%E1%B4%8D%E1%B4%8D%E1%B4%80%E1%B4%85-s%CA%9C%E1%B4%87%C9%AA%E1%B4%8B%CA%9C/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/hammadsheikh4168/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/1CG71PV1uQ/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CodewithHammad-k3x)
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Hammadsheikh1122&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammadsheikh1122&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://streak-stats.demolab.com/?user=Hammadsheikh1122&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hammadsheikh1122&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadsheikh1122&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammadsheikh1122&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Hammadsheikh1122&color=blue)
+<div align="center">
 
 ⭐ Thanks for visiting my profile!
 
+**Keep Learning • Keep Building • Keep Growing**
+
+</div>
